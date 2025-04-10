@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Smartwatch A",
+        "price": "₹4000",
+        "link": "https://example.com/smartwatch-a"
+    },
+    {
+        "title": "Wireless Headphones B",
+        "price": "₹3000",
+        "link": "https://example.com/headphones-b"
+    }
+]

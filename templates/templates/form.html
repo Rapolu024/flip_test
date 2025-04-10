@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head><title>AI Price Negotiator</title></head>
+<body>
+  <h1>Product Query</h1>
+  <form method="post">
+    <input type="text" name="query" placeholder="e.g. best smartwatch under 5000" required />
+    <button type="submit">Submit</button>
+  </form>
+  {% if result %}
+    <h2>Result:</h2>
+    <pre>{{ result }}</pre>
+  {% endif %}
+</body>
+</html>

@@ -1,0 +1,8 @@
+openai
+python-dotenv
+fastapi
+uvicorn
+python-telegram-bot==13.15
+requests
+pydantic
+bs4 
